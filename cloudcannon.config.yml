@@ -4,7 +4,7 @@ paths:
   static: ''
 collections_config:
   Home:
-    path: index.html
+    path: /index.html
     glob:
     name:
     singular_name:
@@ -13,7 +13,7 @@ collections_config:
     disable_url: false
     include_developer_files:
     documentation:
-    description:
+    description: ''
     preview:
     sort:
     sort_options:
