@@ -4,7 +4,7 @@ paths:
   static: ''
 collections_config:
   Home:
-    path: /index.html
+    path: /pages/home
     glob:
     name:
     singular_name:
